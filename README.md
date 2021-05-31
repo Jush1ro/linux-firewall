@@ -1,2 +1,2 @@
 # linux-firewall
-Linux gateway Firewall Configuration scrypt
+Linux gateway Firewall Configuration script
