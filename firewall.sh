@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 WAN="ens19"
 LOCAL="ens18"
 VPN="tun0"
